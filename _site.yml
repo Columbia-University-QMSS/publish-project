@@ -1,0 +1,10 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Crime Map"
+      href: 2-map.html
+    - text: "Shiny App"
+      href: 3-shiny.html
